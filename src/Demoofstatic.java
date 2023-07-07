@@ -3,7 +3,7 @@ public class Demoofstatic {
     static
     {
         System.out.println("This is static block.");
-       // a=2;
+       // a=2;To initialise static members.
     }
     static void method1()
     {
